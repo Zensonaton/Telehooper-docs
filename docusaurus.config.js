@@ -51,7 +51,7 @@ const config = {
 						type: "docSidebar",
 						sidebarId: "tutorialSidebar",
 						position: "left",
-						label: "Tutorial"
+						label: "Документация"
 					},
 					{
 						href: "https://github.com/Zensonaton/Telehooper-docs",
